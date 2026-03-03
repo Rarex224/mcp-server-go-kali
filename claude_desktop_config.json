@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "backless-mcp": {
+      "url": "https://mcp-server-go-production.up.railway.app/sse"
+    }
+  }
+}
